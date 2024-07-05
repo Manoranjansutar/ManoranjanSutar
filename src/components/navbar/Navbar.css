@@ -1,0 +1,70 @@
+.logo {
+    background: -webkit-linear-gradient(top right, rgba(9, 244, 244, 1), rgba(9, 244, 244, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+
+
+.icons{
+    display: inline-flex;
+}
+
+.icons a{
+    margin:  0 25px;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.icons a .layer{
+    width: 55px;
+    height: 55px;
+}
+
+.icons a .layer span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+.icons a .layer span .social-icons{
+    width: 30px;
+    line-height: 55px;
+    text-align: center;
+}
+
+.log1{
+    -webkit-box-reflect: below 1 px linear-gradient(transparent, rgba(9, 244, 244, 1));
+    outline: none;
+    animation: animate1 5s linear infinite;
+    
+}
+
+@keyframes animate1 {
+    0% ,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%{
+        color: rgba(9, 244, 244, 1);
+        box-shadow: none;
+    }
+    18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90%,92.1%,100%{
+        color: grey;
+    }
+}
+
+.active{
+    color: rgba(9, 244, 244, 1);
+    text-decoration: underline;
+}
+
+.navbar ul li:hover{
+    color: rgba(9, 244, 244, 1);
+    text-decoration: underline;
+}
+
+
+

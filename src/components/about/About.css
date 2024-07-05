@@ -1,0 +1,38 @@
+
+.coder{
+    width: 700px;
+    margin-top: 40px;
+    border-width: 0.5px;
+    border-top: 0;
+    border-right: 1px solid rgba(9, 244, 244, 1);
+    border-left: 1px solid rgba(9, 244, 244, 1);
+    border-bottom: 1px solid rgba(9, 244, 244, 1);
+    border-radius: 6px;
+
+}
+
+  .forest-gradient {
+    background: linear-gradient(to right, #00ffff,#1cb5e0 , rgba(9, 244, 244, 1), #00d2ff);
+  }
+
+
+.coder-circle{
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 0.5px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(9, 244, 244, 1);
+    border-top: 1px solid rgba(9, 244, 244, 1);
+    border-radius: 6px;
+}
+
+.coder-circle .circle{
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   margin-top: 10px;
+   margin-bottom: 30px;
+}
+
+

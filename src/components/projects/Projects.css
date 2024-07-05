@@ -1,0 +1,20 @@
+.project-img{
+    max-height: 350px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.project-img img{
+    transition: all 1s ease-in-out;
+    width: 100%;
+    height: 100%;
+    background-position: top center;
+    background-size: cover;
+}
+
+.custom-paragraph {
+    word-spacing: 0.5px; /* or any specific value like 0.1em */
+    white-space: normal;
+    text-align: justify;
+  }
+

@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior:auto;
+  /* outline: 1px solid red; */
+}
+
+:root{
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.custiom-container{
+  padding: 0 60px;
+}
+
+.ultra-regular {
+  font-family: "Ultra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
+

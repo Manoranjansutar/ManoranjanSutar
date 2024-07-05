@@ -1,0 +1,98 @@
+import React from 'react'
+import Lottie from 'lottie-react';
+import './Service.css';
+import servicebanner from './../../assets/0274207612d515f49012c87803a9e631.gif';
+
+
+
+
+
+
+
+
+
+// import animationData from './../../assets/gif json/New folder/Animation - 1719637149915.json';
+import animationData from './../../assets/gif json/New folder/Animation - 1719637407478.json';
+import animationData1 from './../../assets/gif json/New folder/Animation - 1719693046135.json';
+import animationData2 from './../../assets/gif json/New folder/Animation - 1719693149745.json';
+import animationData3 from './../../assets/gif json/New folder/Animation - 1719693332542.json';
+import animationData4 from './../../assets/gif json/New folder/Animation - 1719693389121.json';
+import animationData5 from './../../assets/gif json/New folder/Animation - 1719693451731.json';
+import animationData6 from './../../assets/gif json/New folder/Animation - 1719693500250.json';
+import animationData7 from './../../assets/gif json/New folder/Animation - 1719693504727.json';
+import animationData8 from './../../assets/gif json/New folder/Animation - 1719693665640.json';
+import animationData9 from './../../assets/gif json/New folder/Animation - 1719693980861.json';
+import animationData10 from './../../assets/gif json/New folder/Animation - 1719694181686.json';
+import animationData11 from './../../assets/gif json/New folder/Animation - 1719694371881.json';
+import animationData12 from './../../assets/gif json/New folder/Animation - 1719694483485.json';
+import animationData13 from './../../assets/gif json/New folder/Animation - 1719694633524.json';
+import animationData14 from './../../assets/gif json/New folder/Animation - 1719694849579.json';
+import animationData15 from './../../assets/gif json/New folder/Animation - 1719694895226.json';
+import animationData16 from './../../assets/gif json/Animation - 1719637149915.json';
+import animationData17 from './../../assets/gif json/Animation - 1719637423095.json';
+import animationData18 from './../../assets/gif json/Animation - 1719638201250.json';
+import animationData19 from './../../assets/gif json/Animation - 1719638491072.json';
+import animationData20 from './../../assets/gif json/Animation - 1719638491072.json';
+
+
+
+
+
+const Service = () => {
+  return (
+    <section className='flex flex-col pt-10 bg-black ' id='service'>
+      <div className='flex justify-center align-middle'> <h1 className='inline-block text-6xl tracking-widest text-center text-white ultra-regular' style={{borderBottom:"8px solid rgb(9,244,244,1)"}}>Service</h1></div>
+      <div classname='flex flex-row justify-center align-middle'>
+        
+           <h1 className='text-center text-white text-8xl ultra-regular log1'>Bridging</h1>
+           <p className='text-5xl text-center text-white ultra-regular'>creativity and functionality</p>
+           <p className='text-3xl text-center text-white space-mono-regular'>"Creating seamless digital experiences that drive results."</p>
+      
+        
+          <img src={servicebanner} alt=""/>
+      
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      {/* <div>
+        <div className="flex">
+        <Lottie animationData={animationData} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData1} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData2} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData3} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData4} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData5} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData6} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData7} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData8} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData9} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData10} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData11} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData12} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData13} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData14} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData15} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData16} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData17} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData18} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData19} style={{ width: 300, height: 'auto' }}/>
+        <Lottie animationData={animationData20} style={{ width: 300, height: 'auto' }}/>
+        </div>
+      </div> */}
+    </section>
+  )
+}
+
+export default Service
