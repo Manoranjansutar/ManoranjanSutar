@@ -8,7 +8,9 @@
 # 💫 About Me:
 Enthusiastic Full Stack Developer with a strong foundation in modern web technologies. Skilled in creating<br>responsive and interactive user interfaces using React. Capable of developing backend services and APIs using<br>Node.js and Express . Experienced with database management in MongoDB . Passionate about building<br>scalable, efficient web applications and eager to contribute to all stages of the development lifecycle. Quick<br>learner with a keen interest in staying updated with the latest industry trends and best practices in full stack<br>development.
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manoranjan-sutar-887a3b2b7/) 
 
