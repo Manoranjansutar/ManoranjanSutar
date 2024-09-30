@@ -9,12 +9,7 @@
 
 # 💫 About Me:
 
-
-
-https://github.com/user-attachments/assets/7bc598b4-2be8-4746-a488-f2374a589f6f
-
-
-
+![a5ef8c26-4517-4d68-b489-a02fae0050a8](https://github.com/user-attachments/assets/d27ef335-938b-48db-9d63-5aa5790fb764)
 
 
 Enthusiastic Full Stack Developer with a strong foundation in modern web technologies. Skilled in creating<br>responsive and interactive user interfaces using React. Capable of developing backend services and APIs using<br>Node.js and Express . Experienced with database management in MongoDB . Passionate about building<br>scalable, efficient web applications and eager to contribute to all stages of the development lifecycle. Quick<br>learner with a keen interest in staying updated with the latest industry trends and best practices in full stack<br>development.
