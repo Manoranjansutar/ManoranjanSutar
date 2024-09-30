@@ -9,7 +9,11 @@
 
 # 💫 About Me:
 
-![Screenshot 2024-09-30 110808](https://github.com/user-attachments/assets/ac29d35a-bf41-4568-9e58-ea0c391b488e)
+
+
+https://github.com/user-attachments/assets/7bc598b4-2be8-4746-a488-f2374a589f6f
+
+
 
 
 
