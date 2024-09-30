@@ -1,3 +1,26 @@
+<h1 align="center">Hi 👋, I'm Manoranjan Sutar</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjansutar&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjansutar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoranjansutar" alt="manoranjansutar" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://manoranjan-sutar-portfolio.vercel.app/](https://manoranjan-sutar-portfolio.vercel.app/)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aXi-hm_B15eI07XVnamXDK6WUV88VByW/view?usp=sharing](https://drive.google.com/file/d/1aXi-hm_B15eI07XVnamXDK6WUV88VByW/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manoranjan-sutar-887a3b2b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoranjan-sutar-887a3b2b7/" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoranjansutar&show_icons=true&locale=en" alt="manoranjansutar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoranjansutar&" alt="manoranjansutar" /></p>
+
+
+
+
 # 💫 About Me:
 Enthusiastic Full Stack Developer with a strong foundation in modern web technologies. Skilled in creating<br>responsive and interactive user interfaces using React. Capable of developing backend services and APIs using<br>Node.js and Express . Experienced with database management in MongoDB . Passionate about building<br>scalable, efficient web applications and eager to contribute to all stages of the development lifecycle. Quick<br>learner with a keen interest in staying updated with the latest industry trends and best practices in full stack<br>development.
 
