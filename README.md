@@ -12,7 +12,23 @@
 ![a5ef8c26-4517-4d68-b489-a02fae0050a8](https://github.com/user-attachments/assets/d27ef335-938b-48db-9d63-5aa5790fb764)
 
 
-Enthusiastic Full Stack Developer with a strong foundation in modern web technologies. Skilled in creating<br>responsive and interactive user interfaces using React. Capable of developing backend services and APIs using<br>Node.js and Express . Experienced with database management in MongoDB . Passionate about building<br>scalable, efficient web applications and eager to contribute to all stages of the development lifecycle. Quick<br>learner with a keen interest in staying updated with the latest industry trends and best practices in full stack<br>development.
+🌟 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗧𝗲𝗰𝗵 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗲𝗿 🌟
+
+Hello! I’m a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a fresh perspective and a strong foundation in web development technologies. My journey in coding has equipped me with expertise in:
+
+• 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Proficient in 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, and 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, I bring designs to life using frameworks like 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱, and 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽. I love creating intuitive and responsive user interfaces that enhance the user experience.
+
+• 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Skilled in building robust applications using 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, and 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. I understand the importance of seamless communication between the server and the client and implement effective APIs for data management.
+
+• 𝗨𝗜/𝗨𝗫 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Familiar with various UI component libraries such as 𝗔𝗻𝘁 𝗗𝗲𝘀𝗶𝗴𝗻, 𝗔𝗰𝗲𝘁𝗲𝗿𝗻𝗶𝘁𝘆 𝗨𝗜, and 𝗦𝗵𝗮𝗱𝗰𝗻, I aim to develop visually appealing and functional designs.
+
+• 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 & 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: Experienced with deploying applications on platforms like 𝗩𝗲𝗿𝗰𝗲𝗹, 𝗡𝗲𝘁𝗹𝗶𝗳𝘆, and 𝗥𝗲𝗻𝗱𝗲𝗿. I utilize 𝗚𝗶𝘁 for version control, ensuring code integrity and collaboration in team projects.
+
+• 𝗦𝘁𝗮𝘁𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Understanding of 𝗥𝗲𝗱𝘂𝘅 for state management and 𝗖𝗵𝗮𝗿𝘁.𝗷𝘀 for data visualization, I leverage these tools to create dynamic and interactive applications.
+
+I am eager to contribute to innovative projects and collaborate with like-minded professionals who are as excited about technology as I am. Let’s connect and explore new opportunities in web development together!
+
+📫 𝗺𝗮𝗻𝗼𝗿𝗮𝗻𝗷𝗮𝗻.𝗿𝗸𝗹𝟮𝟬𝟬𝟵@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 🌐𝗵𝘁𝘁𝗽𝘀://𝗺𝗮𝗻𝗼𝗿𝗮𝗻𝗷𝗮𝗻-𝘀𝘂𝘁𝗮𝗿-𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼.𝘃𝗲𝗿𝗰𝗲𝗹.𝗮𝗽𝗽/
 
 
 
