@@ -28,7 +28,7 @@ Hello! I’m a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲
 
 I am eager to contribute to innovative projects and collaborate with like-minded professionals who are as excited about technology as I am. Let’s connect and explore new opportunities in web development together!
 
-📫 𝗺𝗮𝗻𝗼𝗿𝗮𝗻𝗷𝗮𝗻.𝗿𝗸𝗹𝟮𝟬𝟬𝟵@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 🌐𝗵𝘁𝘁𝗽𝘀://𝗺𝗮𝗻𝗼𝗿𝗮𝗻𝗷𝗮𝗻-𝘀𝘂𝘁𝗮𝗿-𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼.𝘃𝗲𝗿𝗰𝗲𝗹.𝗮𝗽𝗽/
+📫 𝗺𝗮𝗻𝗼𝗿𝗮𝗻𝗷𝗮𝗻.𝗿𝗸𝗹𝟮𝟬𝟬𝟵@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 🌐https://manoranjan-sutar-portfolio.vercel.app/
 
 
 
